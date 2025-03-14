@@ -123,9 +123,11 @@
 
   Normalized database schema is created. 
   ![image](https://github.com/user-attachments/assets/6153f7e5-462d-4837-b335-15b07056a882)
-  Link to the database schema creation script: https://app.snowflake.com/eleevfr/dq33127/wRyqmIzoA0l/query
+  Snowflake Link to the database schema creation script: https://app.snowflake.com/eleevfr/dq33127/wRyqmIzoA0l/query
   
-  To load the data into the tables, we will use the load data option in snowflake, then select the appropriate file from the local machine, then click on Next, Click on Load
+  To load the data into the tables, we will use the load data option in snowflake, then select the appropriate file from the local machine, then click on Next, Click on Load.
+
+  
   ![image](https://github.com/user-attachments/assets/e8607b5a-0952-402e-8979-b474ed20275d)
   ![image](https://github.com/user-attachments/assets/b1c9f1d2-87d2-4402-b534-39a783570827)
   ![image](https://github.com/user-attachments/assets/3039a172-3cee-481e-8464-4af59e518602)
@@ -136,6 +138,13 @@ To see the results, we run the select command on the Business Types.
 ![image](https://github.com/user-attachments/assets/8967c911-13d6-4599-8bc0-17a246ee309e)
 
 We will follow this steps to load all the datasets. 
+
+To load the xml file, I have written the insert queries as I was unable to load it directly using the load option in snowflake. In our dataset, we have two xml files: Currency and Pricing. I have inserted all the records for currency table and only entered 49 records for the pricing table. 
+
+The DML script to insert the records is stored in the "DML to insert XML data into tables" file. 
+Snowflake link to the data update script for Pricing and Currency: https://app.snowflake.com/eleevfr/dq33127/w1Zh8LcQLc2N#query
+
+
 
 
 
