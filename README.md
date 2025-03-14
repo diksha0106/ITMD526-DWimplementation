@@ -144,6 +144,73 @@ To load the xml file, I have written the insert queries as I was unable to load 
 The DML script to insert the records is stored in the "DML to insert XML data into tables" file. 
 Snowflake link to the data update script for Pricing and Currency: https://app.snowflake.com/eleevfr/dq33127/w1Zh8LcQLc2N#query
 
+## Part 4: Dimensional Model 
+
+DDL Scripts for Dimensional Model: https://app.snowflake.com/eleevfr/dq33127/w5TybQCVuCSv#query (Dimension Table) and https://app.snowflake.com/eleevfr/dq33127/wqUb3pUTnBe#query (Fact Table)
+
+### Documentation/Explanation of Dimensions and Fact design
+1. DimCustomer: 
+ - Purpose: Tracks customers historical changes, including business types and loyalty tiers.
+ - Primary Key: CustomerKey (Surrogate Key)
+ - Foreign Key References: None
+ - Slowly Changing Dimension:
+ - EffectiveDate, EndDate, IsCurrent (Tracks changes in business type and loyalty tier over time)
+ - Source Files: Customers.csv, BusinessType.csv, Loyalty.csv
+ - Explanation: With tracking historical changes, we can perform customer segmentation analysis. 
+   
+2. DimProduct:
+ - Purpose: Stores product details, including category, supplier, and pricing information.
+ - Primary Key: ProductKey (Surrogate Key)
+ - Foreign Key References: None
+ - Additional Attributes: BasePrice, Discount, FinalPrice, EffectiveDate (Tracks product pricing changes over time)
+ - Source Files: Products.csv, Category.csv, Supplier.csv, Pricing.xml
+ - Explanation: This allows product analytics, enabling tracking of category performance, supplier effectiveness, and pricing changes over time.
+   
+3. DimDate: 
+ - Purpose: Provides a date reference for analytics, including time granularity (Year, Quarter, Month, Day).
+ - Primary Key: DateKey
+ - Foreign Key References: Referenced in fact tables.
+ - Source Files: Orders.csv
+ - Explanation: This allows us to keep a track of monthly sales trends or seasonal inventory patterns. 
+   
+4. DimCurrency:
+ - Purpose: Tracks currency fluctuations over time.
+ - Primary Key: CurrencyKey (Surrogate Key)
+ - Foreign Key References: Referenced in FactSales.
+ - Slowly Changing Dimension: EffectiveDate, EndDate, IsCurrent (Captures historical rate changes)
+ - Source Files: Currency.xml, Pricing.xml
+ - Explanation: This ensures that we keep track of historical sales transactions. 
+   
+5. DimWarehouse:
+ - Purpose: Stores warehouse locations and logistics details.
+ - Primary Key: WarehouseKey (Surrogate Key)
+ - Foreign Key References: Referenced in FactInventory.
+ - Additional Attributes: WarehouseID, WarehouseName, Location (Location added for logistics tracking)
+ - Source Files: Warehouse.json, Inventory.json, Locations.csv
+ - Explanation: This allows efficient inventory management, supporting stock-level analysis, warehouse performance and optimization. 
+   
+6. DimShippingMethod: 
+ - Purpose: Stores shipping method details, tracking different carriers and delivery speeds.
+ - Primary Key: ShippingMethodKey (Surrogate Key)
+ - Foreign Key References: Referenced in FactSales.
+ - Additional Attributes: ShippingMethodName, Carrier, EstimatedDeliveryDays
+ - Source Files: ShippingMethod.csv
+ - Explanation: This enables shipping performance analysis, helping businesses evaluate carrier efficiency, cost optimization, and delivery times.
+      
+6. FactSales:
+    - Purpose: This fact table captures all sales transactions and links them to customer, product, date, currency, and shipping dimensions for analytics.
+    - Primary Key: SalesKey (Surrogate Key)
+    - Foreign Key References: Customer Key comes from DimCustomer, ProductKey comes DimProduct, DateKey comes from DimDate, CurrencyKey comes from DimCurrency and ShippingMethodKey comes from DimShippingMethod.
+    - Additonal Attributes: OrderStatus, PaymentMethod, Quantity, TotalPrice.
+    - Source File: Orders.csv, OrderStatus.csv, PaymentMethod.csv, ShippingMethod.csv
+      
+7. FactInvetory:
+     - Purpose: his fact table tracks inventory transactions over time, monitoring stock levels and warehouse performance.
+     - Primary Key: InventoryKey (Surrogate Key) 
+     - Foreign Key References: ProductKey comes from DimProduct, WarehouseKey comes from DimWarehouse and DateKey comes from DimDate.
+     - Additional Attributes: StockLevel, SafetyStockLevel, LastUpdated.
+     - Source File: Inventory.json, Warehouse.json
+
 
 
 
