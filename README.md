@@ -94,3 +94,27 @@
  | `SafetyStockLevel` | Integer   | Minimum stock level to maintain in inventory |
  | `ReplenishmentDate` | DateTime  | Scheduled stock replenishment date |
  | `LastUpdate`       | DateTime  | Last inventory updated date |
+
+
+ ## Part 2: Normalization
+
+
+  The current data soruce files are not in the 3NF form. To convert the files into 3NF, we will separate some attributes into a separate table: 
+  1. Customers.csv - Location, BusinessType and Loyalty has repetitive data (transitive dependency) so separate tables were created for each.
+      - The normalized data files are: Customers.csv, BusinessType.csv, Location.csv and Loyalty.csv.
+        
+  2. Orders.csv - Status, PaymentMethod, ShippingMethod has repetitive data (transitive dependency) so separate tables were created for each.
+      - The normalized data files are: Orders.csv, OrderStatus.csv, PaymentMethod.csv, ShippingMethod.csv.
+        
+  3. Products.csv - Category and Supplier has repetitive data (transitive dependency) so separate tables were created for each.
+      - The normalized data files are: Products.csv, Category.csv, Supplier.csv.
+    
+  4. Pricing.xml - Currency has repetitive data (transitive dependency) so separate table is created to store currency data.
+      - The normalized data files are: Currency.xml and Pricing.xml
+        
+  5. Inventory.json - Warehouse has repetitive data (transitive dependency) so separate table is created to store warehouse information.
+      - The normalized data files are: Inventory.json and Warehouse.json
+    
+   All the normalized files are stored in the Part2- Normalized Data Sources folder. 
+
+   
