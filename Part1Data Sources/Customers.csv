@@ -1,0 +1,201 @@
+CustomerID,FirstName,LastName,Location,BusinessType,Email,Phone,AccountCreationDate,LoyaltyStatus
+2001,Jane,Smith,New York,Contractor,jane.smith@example.com,6243487784,1/31/2015,Gold
+2002,David,Taylor,Los Angeles,Retail,david.taylor@example.com,9873125888,2/28/2015,Platinum
+2003,Emily,Brown,Los Angeles,Contractor,emily.brown@example.com,9741102156,3/31/2015,Gold
+2004,Jane,Harris,Miami,Contractor,jane.harris@example.com,3616484601,4/30/2015,Bronze
+2005,Jane,Martin,Los Angeles,Designer,jane.martin@example.com,8421564787,5/31/2015,Silver
+2006,Chris,Smith,New York,Contractor,chris.smith@example.com,8859179335,6/30/2015,Platinum
+2007,John,Johnson,Los Angeles,Retail,john.johnson@example.com,9414676324,7/31/2015,Silver
+2008,Emily,Taylor,Chicago,Contractor,emily.taylor@example.com,8423611861,8/31/2015,Gold
+2009,Matthew,Martin,Houston,Retail,matthew.martin@example.com,3140961491,9/30/2015,Bronze
+2010,John,Harris,New York,Retail,john.harris@example.com,8900124224,10/31/2015,Silver
+2011,Emily,Harris,Miami,Wholesale,emily.harris@example.com,3102924769,11/30/2015,Silver
+2012,Chris,Taylor,Chicago,Contractor,chris.taylor@example.com,1293677065,12/31/2015,Gold
+2013,Jessica,Martin,Los Angeles,Contractor,jessica.martin@example.com,9205362984,1/31/2016,Gold
+2014,David,Smith,Miami,Designer,david.smith@example.com,5279496487,2/29/2016,Bronze
+2015,Michael,Jackson,Los Angeles,Contractor,michael.jackson@example.com,7229408967,3/31/2016,Bronze
+2016,Sarah,Anderson,Los Angeles,Contractor,sarah.anderson@example.com,9050544745,4/30/2016,Silver
+2017,Michael,Taylor,New York,Retail,michael.taylor@example.com,5737364379,5/31/2016,Bronze
+2018,Sarah,Johnson,Houston,Wholesale,sarah.johnson@example.com,3664866802,6/30/2016,Silver
+2019,Jane,Jackson,Chicago,Designer,jane.jackson@example.com,3633407471,7/31/2016,Silver
+2020,Jane,Thomas,Miami,Retail,jane.thomas@example.com,6704780805,8/31/2016,Bronze
+2021,Sarah,Martin,New York,Contractor,sarah.martin@example.com,9802165082,9/30/2016,Silver
+2022,David,Smith,New York,Wholesale,david.smith@example.com,4663559919,10/31/2016,Bronze
+2023,Jessica,Harris,New York,Designer,jessica.harris@example.com,2305042887,11/30/2016,Silver
+2024,Jane,Jackson,Miami,Wholesale,jane.jackson@example.com,9285957985,12/31/2016,Platinum
+2025,Jane,Harris,Miami,Designer,jane.harris@example.com,1337831337,1/31/2017,Platinum
+2026,David,Martin,Chicago,Wholesale,david.martin@example.com,7568989207,2/28/2017,Silver
+2027,Sarah,Martin,Houston,Designer,sarah.martin@example.com,3408031390,3/31/2017,Silver
+2028,Emily,Johnson,Miami,Designer,emily.johnson@example.com,2567941266,4/30/2017,Platinum
+2029,John,Taylor,Chicago,Wholesale,john.taylor@example.com,1990198800,5/31/2017,Silver
+2030,David,Johnson,New York,Retail,david.johnson@example.com,5608798831,6/30/2017,Gold
+2031,Emily,Johnson,Chicago,Wholesale,emily.johnson@example.com,6001892706,7/31/2017,Bronze
+2032,Chris,Anderson,Los Angeles,Designer,chris.anderson@example.com,1143871201,8/31/2017,Bronze
+2033,Jessica,Thomas,New York,Retail,jessica.thomas@example.com,1148614285,9/30/2017,Bronze
+2034,Michael,Thomas,Houston,Designer,michael.thomas@example.com,8481112461,10/31/2017,Bronze
+2035,Sarah,Taylor,Miami,Designer,sarah.taylor@example.com,9029739106,11/30/2017,Bronze
+2036,David,Johnson,Chicago,Retail,david.johnson@example.com,5839250503,12/31/2017,Platinum
+2037,Ashley,Brown,Chicago,Designer,ashley.brown@example.com,2422082187,1/31/2018,Platinum
+2038,Matthew,Taylor,Miami,Retail,matthew.taylor@example.com,4744477860,2/28/2018,Bronze
+2039,Michael,White,Chicago,Wholesale,michael.white@example.com,6947021752,3/31/2018,Bronze
+2040,Chris,Anderson,New York,Designer,chris.anderson@example.com,2977046600,4/30/2018,Gold
+2041,Matthew,Taylor,Chicago,Contractor,matthew.taylor@example.com,9840824771,5/31/2018,Platinum
+2042,Sarah,Smith,Chicago,Wholesale,sarah.smith@example.com,3286454614,6/30/2018,Gold
+2043,Emily,Smith,Chicago,Wholesale,emily.smith@example.com,5669913069,7/31/2018,Gold
+2044,Sarah,Jackson,Los Angeles,Designer,sarah.jackson@example.com,1126005286,8/31/2018,Bronze
+2045,David,Johnson,Los Angeles,Designer,david.johnson@example.com,1182729904,9/30/2018,Gold
+2046,Emily,Martin,Miami,Wholesale,emily.martin@example.com,5737661242,10/31/2018,Platinum
+2047,Sarah,Taylor,Houston,Wholesale,sarah.taylor@example.com,3054207068,11/30/2018,Bronze
+2048,Jessica,Jackson,New York,Contractor,jessica.jackson@example.com,1745121022,12/31/2018,Bronze
+2049,Jessica,Brown,New York,Retail,jessica.brown@example.com,1146112384,1/31/2019,Platinum
+2050,David,Brown,Los Angeles,Designer,david.brown@example.com,6331275836,2/28/2019,Silver
+2051,Emily,Harris,Los Angeles,Retail,emily.harris@example.com,1324047378,3/31/2019,Platinum
+2052,Matthew,Anderson,Miami,Contractor,matthew.anderson@example.com,6305085308,4/30/2019,Platinum
+2053,Ashley,Jackson,Chicago,Retail,ashley.jackson@example.com,8182171010,5/31/2019,Silver
+2054,Ashley,Jackson,Houston,Wholesale,ashley.jackson@example.com,2852696299,6/30/2019,Silver
+2055,Sarah,Taylor,Chicago,Retail,sarah.taylor@example.com,4554784679,7/31/2019,Platinum
+2056,Michael,Harris,Los Angeles,Designer,michael.harris@example.com,1575684119,8/31/2019,Bronze
+2057,Jessica,Johnson,New York,Contractor,jessica.johnson@example.com,9433711391,9/30/2019,Silver
+2058,John,Johnson,New York,Retail,john.johnson@example.com,5974750494,10/31/2019,Gold
+2059,Michael,Brown,Houston,Contractor,michael.brown@example.com,7951874233,11/30/2019,Platinum
+2060,Chris,Martin,Chicago,Contractor,chris.martin@example.com,4800535595,12/31/2019,Platinum
+2061,Jane,Jackson,New York,Contractor,jane.jackson@example.com,1437876265,1/31/2020,Silver
+2062,Chris,Martin,Miami,Wholesale,chris.martin@example.com,1855880402,2/29/2020,Bronze
+2063,Jessica,Harris,New York,Wholesale,jessica.harris@example.com,7610052840,3/31/2020,Platinum
+2064,David,Harris,Houston,Contractor,david.harris@example.com,5484577262,4/30/2020,Bronze
+2065,John,Johnson,Miami,Contractor,john.johnson@example.com,4836582916,5/31/2020,Bronze
+2066,Matthew,Anderson,Miami,Retail,matthew.anderson@example.com,4080876633,6/30/2020,Gold
+2067,Sarah,Johnson,Houston,Retail,sarah.johnson@example.com,2492890260,7/31/2020,Gold
+2068,David,Jackson,Los Angeles,Contractor,david.jackson@example.com,5443103671,8/31/2020,Bronze
+2069,Michael,White,Miami,Contractor,michael.white@example.com,1739524581,9/30/2020,Bronze
+2070,John,Anderson,Houston,Designer,john.anderson@example.com,7478385641,10/31/2020,Bronze
+2071,Matthew,Brown,Los Angeles,Wholesale,matthew.brown@example.com,5382755545,11/30/2020,Platinum
+2072,Matthew,Johnson,Los Angeles,Wholesale,matthew.johnson@example.com,6762525053,12/31/2020,Silver
+2073,David,Harris,Miami,Designer,david.harris@example.com,7255658735,1/31/2021,Gold
+2074,Ashley,Taylor,Los Angeles,Wholesale,ashley.taylor@example.com,7935385270,2/28/2021,Silver
+2075,Michael,Thomas,Chicago,Wholesale,michael.thomas@example.com,9923293997,3/31/2021,Platinum
+2076,Michael,Harris,Houston,Retail,michael.harris@example.com,1999045474,4/30/2021,Gold
+2077,Matthew,Smith,Los Angeles,Wholesale,matthew.smith@example.com,6865185141,5/31/2021,Gold
+2078,Ashley,Thomas,Miami,Wholesale,ashley.thomas@example.com,4349126678,6/30/2021,Silver
+2079,Jessica,Smith,Los Angeles,Contractor,jessica.smith@example.com,1810506958,7/31/2021,Silver
+2080,Jane,Thomas,Houston,Wholesale,jane.thomas@example.com,5575901755,8/31/2021,Platinum
+2081,David,Taylor,Los Angeles,Contractor,david.taylor@example.com,6133711053,9/30/2021,Platinum
+2082,John,Taylor,Los Angeles,Retail,john.taylor@example.com,2571575954,10/31/2021,Gold
+2083,Ashley,Johnson,New York,Contractor,ashley.johnson@example.com,4357253014,11/30/2021,Platinum
+2084,Jane,White,Los Angeles,Contractor,jane.white@example.com,5655645588,12/31/2021,Platinum
+2085,Jane,Harris,Los Angeles,Designer,jane.harris@example.com,8973575510,1/31/2022,Silver
+2086,Michael,Brown,New York,Designer,michael.brown@example.com,4978093680,2/28/2022,Silver
+2087,Jessica,Harris,Miami,Retail,jessica.harris@example.com,7518843667,3/31/2022,Silver
+2088,Michael,Anderson,Los Angeles,Wholesale,michael.anderson@example.com,9163920126,4/30/2022,Gold
+2089,Matthew,Martin,New York,Contractor,matthew.martin@example.com,7168693671,5/31/2022,Platinum
+2090,Chris,Taylor,Los Angeles,Wholesale,chris.taylor@example.com,4625985190,6/30/2022,Silver
+2091,Matthew,Taylor,Miami,Contractor,matthew.taylor@example.com,5039654555,7/31/2022,Silver
+2092,David,Jackson,Miami,Retail,david.jackson@example.com,3131720193,8/31/2022,Bronze
+2093,Sarah,White,Los Angeles,Contractor,sarah.white@example.com,9925855531,9/30/2022,Silver
+2094,Matthew,White,Miami,Wholesale,matthew.white@example.com,3661518075,10/31/2022,Silver
+2095,Jane,Taylor,Chicago,Designer,jane.taylor@example.com,2404760326,11/30/2022,Silver
+2096,Emily,Johnson,New York,Designer,emily.johnson@example.com,2461723888,12/31/2022,Platinum
+2097,Sarah,Smith,New York,Wholesale,sarah.smith@example.com,5576759746,1/31/2023,Silver
+2098,Ashley,Harris,Chicago,Wholesale,ashley.harris@example.com,2890812626,2/28/2023,Bronze
+2099,Emily,Martin,Houston,Contractor,emily.martin@example.com,4226708578,3/31/2023,Silver
+2100,Emily,Smith,Houston,Designer,emily.smith@example.com,9706289413,4/30/2023,Silver
+2101,Jane,Smith,Los Angeles,Designer,jane.smith@example.com,1276841695,5/31/2023,Platinum
+2102,Emily,Johnson,Los Angeles,Wholesale,emily.johnson@example.com,4800341068,6/30/2023,Bronze
+2103,John,Thomas,Los Angeles,Wholesale,john.thomas@example.com,7553555866,7/31/2023,Platinum
+2104,Jane,Harris,Miami,Wholesale,jane.harris@example.com,7560259556,8/31/2023,Platinum
+2105,Emily,Anderson,Chicago,Retail,emily.anderson@example.com,9254664607,9/30/2023,Silver
+2106,Jessica,Taylor,Chicago,Retail,jessica.taylor@example.com,1252425386,10/31/2023,Silver
+2107,Matthew,Brown,Chicago,Retail,matthew.brown@example.com,4706137405,11/30/2023,Silver
+2108,Ashley,Martin,New York,Wholesale,ashley.martin@example.com,4121167842,12/31/2023,Gold
+2109,Jessica,Taylor,New York,Wholesale,jessica.taylor@example.com,7622045183,1/31/2024,Platinum
+2110,Jessica,Jackson,Los Angeles,Contractor,jessica.jackson@example.com,6735080646,2/29/2024,Bronze
+2111,Emily,Johnson,Los Angeles,Designer,emily.johnson@example.com,6979072910,3/31/2024,Bronze
+2112,Jane,Jackson,Chicago,Retail,jane.jackson@example.com,3422460755,4/30/2024,Gold
+2113,Sarah,Jackson,Los Angeles,Contractor,sarah.jackson@example.com,2622325787,5/31/2024,Platinum
+2114,Chris,White,New York,Retail,chris.white@example.com,3124947773,6/30/2024,Bronze
+2115,John,Johnson,New York,Designer,john.johnson@example.com,8880129188,7/31/2024,Silver
+2116,John,Jackson,New York,Contractor,john.jackson@example.com,4494202437,8/31/2024,Platinum
+2117,Sarah,Johnson,Chicago,Designer,sarah.johnson@example.com,4798785541,9/30/2024,Gold
+2118,Emily,Taylor,New York,Wholesale,emily.taylor@example.com,5628391417,10/31/2024,Platinum
+2119,Emily,Harris,Chicago,Designer,emily.harris@example.com,6440717394,11/30/2024,Silver
+2120,Jessica,Brown,Miami,Contractor,jessica.brown@example.com,6891414763,12/31/2024,Gold
+2121,Chris,Brown,New York,Designer,chris.brown@example.com,9872863118,1/31/2025,Bronze
+2122,David,White,Houston,Designer,david.white@example.com,1822729505,2/28/2025,Platinum
+2123,Emily,Johnson,Chicago,Designer,emily.johnson@example.com,5175038906,3/31/2025,Platinum
+2124,Jessica,Harris,Chicago,Designer,jessica.harris@example.com,6999770455,4/30/2025,Gold
+2125,Jane,Smith,Houston,Wholesale,jane.smith@example.com,7400554972,5/31/2025,Gold
+2126,Matthew,Smith,Houston,Designer,matthew.smith@example.com,5378239617,6/30/2025,Gold
+2127,Jane,Taylor,Chicago,Contractor,jane.taylor@example.com,8821045996,7/31/2025,Platinum
+2128,Michael,Jackson,Los Angeles,Retail,michael.jackson@example.com,1094284754,8/31/2025,Gold
+2129,Jessica,White,Houston,Contractor,jessica.white@example.com,4240485032,9/30/2025,Bronze
+2130,Emily,Jackson,Los Angeles,Designer,emily.jackson@example.com,3019848792,10/31/2025,Silver
+2131,John,Brown,Los Angeles,Wholesale,john.brown@example.com,1414534458,11/30/2025,Gold
+2132,Chris,Smith,Miami,Designer,chris.smith@example.com,7976279649,12/31/2025,Platinum
+2133,Chris,Anderson,Houston,Designer,chris.anderson@example.com,8942053586,1/31/2026,Platinum
+2134,Jessica,Anderson,Miami,Wholesale,jessica.anderson@example.com,5557893112,2/28/2026,Silver
+2135,Chris,Harris,Houston,Designer,chris.harris@example.com,4340836379,3/31/2026,Platinum
+2136,Jessica,Brown,Chicago,Contractor,jessica.brown@example.com,4901961419,4/30/2026,Bronze
+2137,Emily,Anderson,Chicago,Retail,emily.anderson@example.com,9808049170,5/31/2026,Bronze
+2138,Emily,Smith,Houston,Contractor,emily.smith@example.com,8517846327,6/30/2026,Gold
+2139,Ashley,Harris,Chicago,Designer,ashley.harris@example.com,7033802363,7/31/2026,Platinum
+2140,John,Thomas,Miami,Designer,john.thomas@example.com,3896946908,8/31/2026,Silver
+2141,John,Smith,Miami,Wholesale,john.smith@example.com,7542093022,9/30/2026,Gold
+2142,Ashley,White,New York,Contractor,ashley.white@example.com,4247257057,10/31/2026,Gold
+2143,Matthew,Harris,Chicago,Designer,matthew.harris@example.com,6635615539,11/30/2026,Bronze
+2144,Michael,Smith,Houston,Retail,michael.smith@example.com,5090327671,12/31/2026,Gold
+2145,Matthew,Johnson,New York,Retail,matthew.johnson@example.com,4397029000,1/31/2027,Silver
+2146,Michael,Johnson,Los Angeles,Contractor,michael.johnson@example.com,2860881650,2/28/2027,Gold
+2147,Ashley,Johnson,Miami,Retail,ashley.johnson@example.com,7296506317,3/31/2027,Bronze
+2148,Emily,Jackson,Los Angeles,Retail,emily.jackson@example.com,7545086022,4/30/2027,Bronze
+2149,Jane,Martin,Chicago,Retail,jane.martin@example.com,8658041065,5/31/2027,Silver
+2150,Emily,Martin,New York,Retail,emily.martin@example.com,7993298056,6/30/2027,Silver
+2151,Ashley,Smith,New York,Retail,ashley.smith@example.com,2568814603,7/31/2027,Bronze
+2152,Ashley,Johnson,Chicago,Retail,ashley.johnson@example.com,1619877407,8/31/2027,Bronze
+2153,Chris,Martin,Chicago,Retail,chris.martin@example.com,1988519428,9/30/2027,Gold
+2154,Ashley,Harris,Miami,Wholesale,ashley.harris@example.com,7844313541,10/31/2027,Silver
+2155,Sarah,Anderson,New York,Wholesale,sarah.anderson@example.com,8854053339,11/30/2027,Gold
+2156,Emily,Thomas,New York,Designer,emily.thomas@example.com,7225310681,12/31/2027,Bronze
+2157,Emily,Anderson,Houston,Designer,emily.anderson@example.com,2831153472,1/31/2028,Gold
+2158,Chris,Brown,Miami,Retail,chris.brown@example.com,6694069635,2/29/2028,Bronze
+2159,David,White,Houston,Designer,david.white@example.com,7356763690,3/31/2028,Platinum
+2160,Sarah,Johnson,Los Angeles,Retail,sarah.johnson@example.com,4745793291,4/30/2028,Gold
+2161,John,White,Houston,Retail,john.white@example.com,7932195944,5/31/2028,Bronze
+2162,Ashley,Martin,Chicago,Wholesale,ashley.martin@example.com,4288512656,6/30/2028,Platinum
+2163,Jane,Johnson,Houston,Wholesale,jane.johnson@example.com,2304707288,7/31/2028,Gold
+2164,Matthew,Taylor,Los Angeles,Contractor,matthew.taylor@example.com,1193422360,8/31/2028,Platinum
+2165,Matthew,Anderson,Houston,Contractor,matthew.anderson@example.com,2927771086,9/30/2028,Silver
+2166,Michael,Thomas,Houston,Retail,michael.thomas@example.com,2001747393,10/31/2028,Bronze
+2167,Jane,Taylor,New York,Retail,jane.taylor@example.com,4369729454,11/30/2028,Bronze
+2168,Sarah,Anderson,New York,Contractor,sarah.anderson@example.com,5933101630,12/31/2028,Platinum
+2169,Michael,White,Los Angeles,Retail,michael.white@example.com,6061168135,1/31/2029,Gold
+2170,Matthew,Anderson,New York,Wholesale,matthew.anderson@example.com,4842382889,2/28/2029,Bronze
+2171,Ashley,Harris,Miami,Retail,ashley.harris@example.com,8569062885,3/31/2029,Silver
+2172,John,Harris,New York,Wholesale,john.harris@example.com,3546239042,4/30/2029,Gold
+2173,David,Johnson,Houston,Retail,david.johnson@example.com,1542114443,5/31/2029,Silver
+2174,Michael,Anderson,Chicago,Retail,michael.anderson@example.com,4522715905,6/30/2029,Gold
+2175,Jane,Johnson,Houston,Retail,jane.johnson@example.com,4352378175,7/31/2029,Gold
+2176,Matthew,Brown,Miami,Designer,matthew.brown@example.com,7728127190,8/31/2029,Silver
+2177,David,Anderson,Los Angeles,Contractor,david.anderson@example.com,2500692769,9/30/2029,Silver
+2178,Ashley,Taylor,Houston,Retail,ashley.taylor@example.com,5775772157,10/31/2029,Silver
+2179,Sarah,Taylor,Houston,Retail,sarah.taylor@example.com,2220565749,11/30/2029,Bronze
+2180,David,Harris,Chicago,Wholesale,david.harris@example.com,1989236098,12/31/2029,Gold
+2181,Jessica,Anderson,Los Angeles,Designer,jessica.anderson@example.com,2711448313,1/31/2030,Bronze
+2182,John,Johnson,Los Angeles,Designer,john.johnson@example.com,4498353771,2/28/2030,Bronze
+2183,Chris,Anderson,New York,Contractor,chris.anderson@example.com,3312788397,3/31/2030,Platinum
+2184,John,Smith,New York,Designer,john.smith@example.com,6396779707,4/30/2030,Gold
+2185,Sarah,Brown,Miami,Contractor,sarah.brown@example.com,7265698697,5/31/2030,Bronze
+2186,David,Brown,New York,Wholesale,david.brown@example.com,7203450027,6/30/2030,Bronze
+2187,Jessica,Harris,Houston,Contractor,jessica.harris@example.com,8014114510,7/31/2030,Platinum
+2188,Chris,Harris,Los Angeles,Retail,chris.harris@example.com,4845499897,8/31/2030,Bronze
+2189,John,Johnson,New York,Designer,john.johnson@example.com,6071540353,9/30/2030,Gold
+2190,Jane,Brown,Miami,Designer,jane.brown@example.com,9064960954,10/31/2030,Platinum
+2191,Matthew,Smith,Los Angeles,Retail,matthew.smith@example.com,3262299096,11/30/2030,Platinum
+2192,Sarah,Martin,Los Angeles,Designer,sarah.martin@example.com,4782408103,12/31/2030,Silver
+2193,Matthew,Brown,New York,Designer,matthew.brown@example.com,1404431882,1/31/2031,Gold
+2194,Chris,Brown,Miami,Wholesale,chris.brown@example.com,4790775724,2/28/2031,Bronze
+2195,John,Anderson,Miami,Contractor,john.anderson@example.com,7532299212,3/31/2031,Silver
+2196,Sarah,Smith,Houston,Designer,sarah.smith@example.com,5095501574,4/30/2031,Bronze
+2197,Sarah,Taylor,Los Angeles,Wholesale,sarah.taylor@example.com,1637206447,5/31/2031,Bronze
+2198,Emily,Johnson,Houston,Contractor,emily.johnson@example.com,6409533542,6/30/2031,Platinum
+2199,Sarah,Harris,Miami,Wholesale,sarah.harris@example.com,5913127393,7/31/2031,Bronze
+2200,Chris,Martin,Los Angeles,Designer,chris.martin@example.com,3410235538,8/31/2031,Bronze
