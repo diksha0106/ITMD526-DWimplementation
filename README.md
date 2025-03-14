@@ -148,6 +148,10 @@ Snowflake link to the data update script for Pricing and Currency: https://app.s
 
 DDL Scripts for Dimensional Model: https://app.snowflake.com/eleevfr/dq33127/w5TybQCVuCSv#query (Dimension Table) and https://app.snowflake.com/eleevfr/dq33127/wqUb3pUTnBe#query (Fact Table)
 
+### Star/snowflake schema diagram
+![image](https://github.com/user-attachments/assets/978f2bf1-4f69-4416-bf2b-dee237bf92a9)
+
+
 ### Documentation/Explanation of Dimensions and Fact design
 1. DimCustomer: 
  - Purpose: Tracks customers historical changes, including business types and loyalty tiers.
@@ -211,6 +215,97 @@ DDL Scripts for Dimensional Model: https://app.snowflake.com/eleevfr/dq33127/w5T
  - Additional Attributes: StockLevel, SafetyStockLevel, LastUpdated.
  - Source File: Inventory.json, Warehouse.json
 
+## Part 5: Analytical Queries (https://app.snowflake.com/eleevfr/dq33127/w5OFBeaGtC9C#query)
+
+1. Query to return products by revenue.
+   Query:
+   SELECT 
+    p.ProductName, 
+    SUM(fs.Quantity) AS TotalQuantitySold, 
+    SUM(fs.TotalPrice) AS TotalRevenue
+FROM FactSales fs
+JOIN DimProduct p ON fs.ProductKey = p.ProductKey
+GROUP BY p.ProductName
+ORDER BY TotalRevenue DESC;
+
+Output: 
+![image](https://github.com/user-attachments/assets/0a24f432-1d2a-47d9-bf88-ce2f71a09744)
+![image](https://github.com/user-attachments/assets/fe5973f7-76a0-4337-b585-04cc4805b367)
+
+Business Insight: Helps identify top-selling products based on revenue. This will allow the company to plan inventory, manufacturing strategies.
+     
+2. Query to output best performing warehouse.
+   Query:
+   SELECT 
+    w.WarehouseName, 
+    SUM(fs.TotalPrice) AS TotalSales
+FROM FactSales fs
+JOIN FactInventory fi ON fs.ProductKey = fi.ProductKey
+JOIN DimWarehouse w ON fi.WarehouseKey = w.WarehouseKey
+GROUP BY w.WarehouseName
+ORDER BY TotalSales DESC;
+
+Output: 
+![image](https://github.com/user-attachments/assets/cf68c015-58fc-46cc-9a9f-7657630a3802)
+![image](https://github.com/user-attachments/assets/dc4e496a-8ef3-461e-b9ee-286c57c79df8)
+
+Business Insight: Query shows which warehouses contributes most to revenue.
+
+3. Query to output customer segmentation by total spending
+ Query:
+SELECT 
+    c.FullName AS CustomerName, 
+    c.LoyaltyTier, 
+    SUM(fs.TotalPrice) AS TotalSpending
+FROM FactSales fs
+JOIN DimCustomer c ON fs.CustomerKey = c.CustomerKey
+GROUP BY c.FullName, c.LoyaltyTier
+ORDER BY TotalSpending DESC
+LIMIT 5;
+
+Output: 
+![image](https://github.com/user-attachments/assets/422c10aa-dae6-4b5f-8145-af8029f7b37e)
+![image](https://github.com/user-attachments/assets/b0f07a83-00c7-4c2d-861b-1c6a61a029a1)
+
+Business Insight: This query helps dentifying high-value customers based on spending. This can allow the sales team to provide any additional promotional pricing to high-value customers. 
+
+4. Query to output monthly sales performance:
+Query:
+SELECT 
+    d.Year, 
+    d.Month, 
+    SUM(fs.TotalPrice) AS MonthlyRevenue
+FROM FactSales fs
+JOIN DimDate d ON fs.DateKey = d.DateKey
+GROUP BY d.Year, d.Month
+ORDER BY d.Year, d.Month;
+
+Output: ![image](https://github.com/user-attachments/assets/972c90e6-eec0-4c73-afbf-73d00bf70bf9)
+
+Business Insight: This query shows seasonal trends and fluctuations in revenue. It can allow demand forecasting and sales target adjustments. 
+
+5. Query to output products below stock level in a warehouse.
+   Query:
+   SELECT 
+    w.WarehouseName, 
+    p.ProductName, 
+    fi.StockLevel, 
+    fi.SafetyStockLevel
+FROM FactInventory fi
+JOIN DimWarehouse w ON fi.WarehouseKey = w.WarehouseKey
+JOIN DimProduct p ON fi.ProductKey = p.ProductKey
+WHERE fi.StockLevel < fi.SafetyStockLevel
+ORDER BY fi.StockLevel ASC
+LIMIT 10;
+
+Output: ![image](https://github.com/user-attachments/assets/806f4ca6-f706-4707-b915-5a91f50bcd65)
+
+Business Insight: This query identifies supply chain issues and strategies to mitigate it. 
+
+
+
+
+ 
 
 
 
