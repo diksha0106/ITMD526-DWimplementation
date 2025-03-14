@@ -1,0 +1,5 @@
+PaymentMethodID,PaymentMethodName
+1,PayPal
+2,Credit Card
+3,Cash
+4,Wire Transfer

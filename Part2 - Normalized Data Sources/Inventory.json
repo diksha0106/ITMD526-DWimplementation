@@ -1,0 +1,1602 @@
+[
+    {
+        "ProductID": 3096,
+        "StockLevel": 314,
+        "SafetyStockLevel": 192,
+        "ReplenishmentDate": "2025-06-18 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3066,
+        "StockLevel": 998,
+        "SafetyStockLevel": 270,
+        "ReplenishmentDate": "2025-07-02 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3036,
+        "StockLevel": 406,
+        "SafetyStockLevel": 170,
+        "ReplenishmentDate": "2025-07-28 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3007,
+        "StockLevel": 29,
+        "SafetyStockLevel": 223,
+        "ReplenishmentDate": "2025-06-08 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3040,
+        "StockLevel": 194,
+        "SafetyStockLevel": 105,
+        "ReplenishmentDate": "2025-06-29 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3093,
+        "StockLevel": 643,
+        "SafetyStockLevel": 151,
+        "ReplenishmentDate": "2025-06-08 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3168,
+        "StockLevel": 127,
+        "SafetyStockLevel": 57,
+        "ReplenishmentDate": "2025-07-29 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3038,
+        "StockLevel": 740,
+        "SafetyStockLevel": 260,
+        "ReplenishmentDate": "2025-07-26 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3081,
+        "StockLevel": 597,
+        "SafetyStockLevel": 199,
+        "ReplenishmentDate": "2025-06-17 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3053,
+        "StockLevel": 143,
+        "SafetyStockLevel": 203,
+        "ReplenishmentDate": "2025-06-27 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3053,
+        "StockLevel": 261,
+        "SafetyStockLevel": 214,
+        "ReplenishmentDate": "2025-06-30 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3170,
+        "StockLevel": 740,
+        "SafetyStockLevel": 81,
+        "ReplenishmentDate": "2025-07-10 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3050,
+        "StockLevel": 13,
+        "SafetyStockLevel": 201,
+        "ReplenishmentDate": "2025-07-24 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3112,
+        "StockLevel": 643,
+        "SafetyStockLevel": 61,
+        "ReplenishmentDate": "2025-07-04 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3175,
+        "StockLevel": 456,
+        "SafetyStockLevel": 101,
+        "ReplenishmentDate": "2025-06-23 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3067,
+        "StockLevel": 432,
+        "SafetyStockLevel": 282,
+        "ReplenishmentDate": "2025-07-16 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3005,
+        "StockLevel": 689,
+        "SafetyStockLevel": 195,
+        "ReplenishmentDate": "2025-06-03 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3115,
+        "StockLevel": 535,
+        "SafetyStockLevel": 250,
+        "ReplenishmentDate": "2025-06-05 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3198,
+        "StockLevel": 900,
+        "SafetyStockLevel": 289,
+        "ReplenishmentDate": "2025-07-15 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3070,
+        "StockLevel": 349,
+        "SafetyStockLevel": 284,
+        "ReplenishmentDate": "2025-07-02 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3121,
+        "StockLevel": 94,
+        "SafetyStockLevel": 80,
+        "ReplenishmentDate": "2025-06-28 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3056,
+        "StockLevel": 898,
+        "SafetyStockLevel": 205,
+        "ReplenishmentDate": "2025-06-28 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3143,
+        "StockLevel": 828,
+        "SafetyStockLevel": 249,
+        "ReplenishmentDate": "2025-07-04 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3139,
+        "StockLevel": 148,
+        "SafetyStockLevel": 251,
+        "ReplenishmentDate": "2025-06-16 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3075,
+        "StockLevel": 511,
+        "SafetyStockLevel": 253,
+        "ReplenishmentDate": "2025-06-07 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3172,
+        "StockLevel": 52,
+        "SafetyStockLevel": 239,
+        "ReplenishmentDate": "2025-06-26 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3124,
+        "StockLevel": 532,
+        "SafetyStockLevel": 164,
+        "ReplenishmentDate": "2025-07-06 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3115,
+        "StockLevel": 800,
+        "SafetyStockLevel": 125,
+        "ReplenishmentDate": "2025-06-24 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3197,
+        "StockLevel": 831,
+        "SafetyStockLevel": 295,
+        "ReplenishmentDate": "2025-07-03 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3165,
+        "StockLevel": 443,
+        "SafetyStockLevel": 260,
+        "ReplenishmentDate": "2025-06-08 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3074,
+        "StockLevel": 365,
+        "SafetyStockLevel": 240,
+        "ReplenishmentDate": "2025-07-10 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3188,
+        "StockLevel": 537,
+        "SafetyStockLevel": 171,
+        "ReplenishmentDate": "2025-06-19 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3075,
+        "StockLevel": 844,
+        "SafetyStockLevel": 118,
+        "ReplenishmentDate": "2025-06-13 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3175,
+        "StockLevel": 653,
+        "SafetyStockLevel": 55,
+        "ReplenishmentDate": "2025-06-10 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3061,
+        "StockLevel": 18,
+        "SafetyStockLevel": 269,
+        "ReplenishmentDate": "2025-07-19 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3101,
+        "StockLevel": 331,
+        "SafetyStockLevel": 102,
+        "ReplenishmentDate": "2025-06-05 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3115,
+        "StockLevel": 882,
+        "SafetyStockLevel": 159,
+        "ReplenishmentDate": "2025-06-10 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3159,
+        "StockLevel": 203,
+        "SafetyStockLevel": 266,
+        "ReplenishmentDate": "2025-06-28 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3059,
+        "StockLevel": 657,
+        "SafetyStockLevel": 183,
+        "ReplenishmentDate": "2025-07-14 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3010,
+        "StockLevel": 620,
+        "SafetyStockLevel": 198,
+        "ReplenishmentDate": "2025-06-15 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3042,
+        "StockLevel": 350,
+        "SafetyStockLevel": 96,
+        "ReplenishmentDate": "2025-07-16 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3073,
+        "StockLevel": 430,
+        "SafetyStockLevel": 238,
+        "ReplenishmentDate": "2025-07-13 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3117,
+        "StockLevel": 297,
+        "SafetyStockLevel": 120,
+        "ReplenishmentDate": "2025-07-15 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3040,
+        "StockLevel": 228,
+        "SafetyStockLevel": 282,
+        "ReplenishmentDate": "2025-06-22 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3156,
+        "StockLevel": 550,
+        "SafetyStockLevel": 187,
+        "ReplenishmentDate": "2025-06-02 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3175,
+        "StockLevel": 849,
+        "SafetyStockLevel": 126,
+        "ReplenishmentDate": "2025-06-24 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3082,
+        "StockLevel": 834,
+        "SafetyStockLevel": 190,
+        "ReplenishmentDate": "2025-07-13 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3152,
+        "StockLevel": 138,
+        "SafetyStockLevel": 154,
+        "ReplenishmentDate": "2025-06-04 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3042,
+        "StockLevel": 67,
+        "SafetyStockLevel": 289,
+        "ReplenishmentDate": "2025-07-14 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3115,
+        "StockLevel": 292,
+        "SafetyStockLevel": 127,
+        "ReplenishmentDate": "2025-07-16 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3050,
+        "StockLevel": 628,
+        "SafetyStockLevel": 55,
+        "ReplenishmentDate": "2025-07-10 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3154,
+        "StockLevel": 161,
+        "SafetyStockLevel": 150,
+        "ReplenishmentDate": "2025-07-01 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3034,
+        "StockLevel": 263,
+        "SafetyStockLevel": 101,
+        "ReplenishmentDate": "2025-06-28 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3067,
+        "StockLevel": 379,
+        "SafetyStockLevel": 60,
+        "ReplenishmentDate": "2025-07-20 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3055,
+        "StockLevel": 534,
+        "SafetyStockLevel": 233,
+        "ReplenishmentDate": "2025-07-22 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3100,
+        "StockLevel": 12,
+        "SafetyStockLevel": 63,
+        "ReplenishmentDate": "2025-07-04 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3022,
+        "StockLevel": 655,
+        "SafetyStockLevel": 197,
+        "ReplenishmentDate": "2025-07-07 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3102,
+        "StockLevel": 373,
+        "SafetyStockLevel": 126,
+        "ReplenishmentDate": "2025-07-14 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3046,
+        "StockLevel": 72,
+        "SafetyStockLevel": 58,
+        "ReplenishmentDate": "2025-07-24 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3200,
+        "StockLevel": 333,
+        "SafetyStockLevel": 205,
+        "ReplenishmentDate": "2025-06-02 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3093,
+        "StockLevel": 565,
+        "SafetyStockLevel": 64,
+        "ReplenishmentDate": "2025-06-11 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3198,
+        "StockLevel": 994,
+        "SafetyStockLevel": 226,
+        "ReplenishmentDate": "2025-07-18 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3060,
+        "StockLevel": 285,
+        "SafetyStockLevel": 199,
+        "ReplenishmentDate": "2025-07-21 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3019,
+        "StockLevel": 246,
+        "SafetyStockLevel": 284,
+        "ReplenishmentDate": "2025-06-02 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3102,
+        "StockLevel": 653,
+        "SafetyStockLevel": 124,
+        "ReplenishmentDate": "2025-06-22 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3035,
+        "StockLevel": 148,
+        "SafetyStockLevel": 248,
+        "ReplenishmentDate": "2025-07-27 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3078,
+        "StockLevel": 676,
+        "SafetyStockLevel": 243,
+        "ReplenishmentDate": "2025-07-10 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3111,
+        "StockLevel": 348,
+        "SafetyStockLevel": 187,
+        "ReplenishmentDate": "2025-07-20 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3167,
+        "StockLevel": 76,
+        "SafetyStockLevel": 172,
+        "ReplenishmentDate": "2025-06-29 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3059,
+        "StockLevel": 335,
+        "SafetyStockLevel": 132,
+        "ReplenishmentDate": "2025-07-05 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3172,
+        "StockLevel": 750,
+        "SafetyStockLevel": 222,
+        "ReplenishmentDate": "2025-07-17 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3015,
+        "StockLevel": 195,
+        "SafetyStockLevel": 227,
+        "ReplenishmentDate": "2025-06-30 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3133,
+        "StockLevel": 786,
+        "SafetyStockLevel": 121,
+        "ReplenishmentDate": "2025-06-06 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3106,
+        "StockLevel": 268,
+        "SafetyStockLevel": 115,
+        "ReplenishmentDate": "2025-07-02 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3056,
+        "StockLevel": 913,
+        "SafetyStockLevel": 190,
+        "ReplenishmentDate": "2025-06-26 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3109,
+        "StockLevel": 905,
+        "SafetyStockLevel": 192,
+        "ReplenishmentDate": "2025-07-27 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3188,
+        "StockLevel": 967,
+        "SafetyStockLevel": 89,
+        "ReplenishmentDate": "2025-06-14 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3001,
+        "StockLevel": 808,
+        "SafetyStockLevel": 240,
+        "ReplenishmentDate": "2025-06-04 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3082,
+        "StockLevel": 13,
+        "SafetyStockLevel": 122,
+        "ReplenishmentDate": "2025-07-06 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3125,
+        "StockLevel": 119,
+        "SafetyStockLevel": 79,
+        "ReplenishmentDate": "2025-06-20 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3125,
+        "StockLevel": 694,
+        "SafetyStockLevel": 208,
+        "ReplenishmentDate": "2025-07-05 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3026,
+        "StockLevel": 357,
+        "SafetyStockLevel": 275,
+        "ReplenishmentDate": "2025-06-15 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3075,
+        "StockLevel": 40,
+        "SafetyStockLevel": 124,
+        "ReplenishmentDate": "2025-06-09 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3176,
+        "StockLevel": 7,
+        "SafetyStockLevel": 282,
+        "ReplenishmentDate": "2025-07-03 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3056,
+        "StockLevel": 434,
+        "SafetyStockLevel": 193,
+        "ReplenishmentDate": "2025-06-05 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3039,
+        "StockLevel": 424,
+        "SafetyStockLevel": 81,
+        "ReplenishmentDate": "2025-07-18 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3139,
+        "StockLevel": 985,
+        "SafetyStockLevel": 240,
+        "ReplenishmentDate": "2025-07-20 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3031,
+        "StockLevel": 518,
+        "SafetyStockLevel": 270,
+        "ReplenishmentDate": "2025-06-25 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3079,
+        "StockLevel": 654,
+        "SafetyStockLevel": 202,
+        "ReplenishmentDate": "2025-07-24 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3182,
+        "StockLevel": 402,
+        "SafetyStockLevel": 278,
+        "ReplenishmentDate": "2025-06-14 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3125,
+        "StockLevel": 961,
+        "SafetyStockLevel": 57,
+        "ReplenishmentDate": "2025-06-28 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3023,
+        "StockLevel": 265,
+        "SafetyStockLevel": 245,
+        "ReplenishmentDate": "2025-07-12 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3069,
+        "StockLevel": 207,
+        "SafetyStockLevel": 295,
+        "ReplenishmentDate": "2025-07-20 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3025,
+        "StockLevel": 635,
+        "SafetyStockLevel": 155,
+        "ReplenishmentDate": "2025-07-08 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3116,
+        "StockLevel": 276,
+        "SafetyStockLevel": 120,
+        "ReplenishmentDate": "2025-06-11 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3191,
+        "StockLevel": 167,
+        "SafetyStockLevel": 54,
+        "ReplenishmentDate": "2025-06-11 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3176,
+        "StockLevel": 634,
+        "SafetyStockLevel": 57,
+        "ReplenishmentDate": "2025-06-30 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3114,
+        "StockLevel": 817,
+        "SafetyStockLevel": 53,
+        "ReplenishmentDate": "2025-06-11 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3024,
+        "StockLevel": 230,
+        "SafetyStockLevel": 86,
+        "ReplenishmentDate": "2025-06-27 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3153,
+        "StockLevel": 350,
+        "SafetyStockLevel": 106,
+        "ReplenishmentDate": "2025-06-04 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3146,
+        "StockLevel": 971,
+        "SafetyStockLevel": 274,
+        "ReplenishmentDate": "2025-06-02 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3096,
+        "StockLevel": 916,
+        "SafetyStockLevel": 298,
+        "ReplenishmentDate": "2025-06-26 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3200,
+        "StockLevel": 955,
+        "SafetyStockLevel": 152,
+        "ReplenishmentDate": "2025-06-18 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3185,
+        "StockLevel": 593,
+        "SafetyStockLevel": 106,
+        "ReplenishmentDate": "2025-06-14 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3139,
+        "StockLevel": 250,
+        "SafetyStockLevel": 73,
+        "ReplenishmentDate": "2025-07-25 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3153,
+        "StockLevel": 431,
+        "SafetyStockLevel": 192,
+        "ReplenishmentDate": "2025-07-20 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3072,
+        "StockLevel": 868,
+        "SafetyStockLevel": 58,
+        "ReplenishmentDate": "2025-06-13 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3030,
+        "StockLevel": 756,
+        "SafetyStockLevel": 298,
+        "ReplenishmentDate": "2025-06-10 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3136,
+        "StockLevel": 226,
+        "SafetyStockLevel": 225,
+        "ReplenishmentDate": "2025-06-25 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3014,
+        "StockLevel": 123,
+        "SafetyStockLevel": 273,
+        "ReplenishmentDate": "2025-07-30 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3053,
+        "StockLevel": 390,
+        "SafetyStockLevel": 276,
+        "ReplenishmentDate": "2025-06-10 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3180,
+        "StockLevel": 598,
+        "SafetyStockLevel": 212,
+        "ReplenishmentDate": "2025-07-04 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3020,
+        "StockLevel": 378,
+        "SafetyStockLevel": 298,
+        "ReplenishmentDate": "2025-07-16 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3188,
+        "StockLevel": 191,
+        "SafetyStockLevel": 266,
+        "ReplenishmentDate": "2025-07-23 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3172,
+        "StockLevel": 783,
+        "SafetyStockLevel": 85,
+        "ReplenishmentDate": "2025-07-30 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3059,
+        "StockLevel": 421,
+        "SafetyStockLevel": 228,
+        "ReplenishmentDate": "2025-06-18 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3172,
+        "StockLevel": 963,
+        "SafetyStockLevel": 130,
+        "ReplenishmentDate": "2025-06-20 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3051,
+        "StockLevel": 405,
+        "SafetyStockLevel": 110,
+        "ReplenishmentDate": "2025-06-21 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3104,
+        "StockLevel": 439,
+        "SafetyStockLevel": 169,
+        "ReplenishmentDate": "2025-06-20 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3045,
+        "StockLevel": 374,
+        "SafetyStockLevel": 187,
+        "ReplenishmentDate": "2025-06-12 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3002,
+        "StockLevel": 371,
+        "SafetyStockLevel": 132,
+        "ReplenishmentDate": "2025-07-24 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3019,
+        "StockLevel": 954,
+        "SafetyStockLevel": 235,
+        "ReplenishmentDate": "2025-06-28 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3140,
+        "StockLevel": 105,
+        "SafetyStockLevel": 101,
+        "ReplenishmentDate": "2025-06-16 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3137,
+        "StockLevel": 587,
+        "SafetyStockLevel": 238,
+        "ReplenishmentDate": "2025-06-29 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3163,
+        "StockLevel": 955,
+        "SafetyStockLevel": 205,
+        "ReplenishmentDate": "2025-06-08 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3076,
+        "StockLevel": 229,
+        "SafetyStockLevel": 239,
+        "ReplenishmentDate": "2025-06-13 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3041,
+        "StockLevel": 445,
+        "SafetyStockLevel": 149,
+        "ReplenishmentDate": "2025-07-28 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3200,
+        "StockLevel": 139,
+        "SafetyStockLevel": 228,
+        "ReplenishmentDate": "2025-07-12 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3181,
+        "StockLevel": 455,
+        "SafetyStockLevel": 54,
+        "ReplenishmentDate": "2025-06-15 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3003,
+        "StockLevel": 368,
+        "SafetyStockLevel": 79,
+        "ReplenishmentDate": "2025-06-28 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3037,
+        "StockLevel": 963,
+        "SafetyStockLevel": 71,
+        "ReplenishmentDate": "2025-07-18 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3136,
+        "StockLevel": 810,
+        "SafetyStockLevel": 284,
+        "ReplenishmentDate": "2025-06-29 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3166,
+        "StockLevel": 536,
+        "SafetyStockLevel": 79,
+        "ReplenishmentDate": "2025-07-12 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3167,
+        "StockLevel": 823,
+        "SafetyStockLevel": 97,
+        "ReplenishmentDate": "2025-06-02 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3175,
+        "StockLevel": 255,
+        "SafetyStockLevel": 150,
+        "ReplenishmentDate": "2025-06-05 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3005,
+        "StockLevel": 146,
+        "SafetyStockLevel": 171,
+        "ReplenishmentDate": "2025-06-30 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3065,
+        "StockLevel": 969,
+        "SafetyStockLevel": 55,
+        "ReplenishmentDate": "2025-07-30 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3101,
+        "StockLevel": 54,
+        "SafetyStockLevel": 114,
+        "ReplenishmentDate": "2025-06-08 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3097,
+        "StockLevel": 415,
+        "SafetyStockLevel": 114,
+        "ReplenishmentDate": "2025-06-14 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3033,
+        "StockLevel": 490,
+        "SafetyStockLevel": 195,
+        "ReplenishmentDate": "2025-06-12 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3061,
+        "StockLevel": 499,
+        "SafetyStockLevel": 110,
+        "ReplenishmentDate": "2025-06-16 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3002,
+        "StockLevel": 615,
+        "SafetyStockLevel": 177,
+        "ReplenishmentDate": "2025-07-30 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3068,
+        "StockLevel": 41,
+        "SafetyStockLevel": 194,
+        "ReplenishmentDate": "2025-06-14 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3172,
+        "StockLevel": 704,
+        "SafetyStockLevel": 262,
+        "ReplenishmentDate": "2025-06-04 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3019,
+        "StockLevel": 236,
+        "SafetyStockLevel": 96,
+        "ReplenishmentDate": "2025-07-14 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3138,
+        "StockLevel": 119,
+        "SafetyStockLevel": 131,
+        "ReplenishmentDate": "2025-07-25 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3147,
+        "StockLevel": 826,
+        "SafetyStockLevel": 189,
+        "ReplenishmentDate": "2025-06-12 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3027,
+        "StockLevel": 109,
+        "SafetyStockLevel": 131,
+        "ReplenishmentDate": "2025-06-15 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3087,
+        "StockLevel": 614,
+        "SafetyStockLevel": 196,
+        "ReplenishmentDate": "2025-07-23 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3059,
+        "StockLevel": 795,
+        "SafetyStockLevel": 148,
+        "ReplenishmentDate": "2025-07-29 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3012,
+        "StockLevel": 863,
+        "SafetyStockLevel": 187,
+        "ReplenishmentDate": "2025-07-29 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3017,
+        "StockLevel": 746,
+        "SafetyStockLevel": 143,
+        "ReplenishmentDate": "2025-06-04 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3050,
+        "StockLevel": 513,
+        "SafetyStockLevel": 230,
+        "ReplenishmentDate": "2025-06-04 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3012,
+        "StockLevel": 434,
+        "SafetyStockLevel": 208,
+        "ReplenishmentDate": "2025-07-16 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3171,
+        "StockLevel": 561,
+        "SafetyStockLevel": 155,
+        "ReplenishmentDate": "2025-07-26 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3029,
+        "StockLevel": 248,
+        "SafetyStockLevel": 231,
+        "ReplenishmentDate": "2025-06-28 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3200,
+        "StockLevel": 394,
+        "SafetyStockLevel": 77,
+        "ReplenishmentDate": "2025-06-26 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3149,
+        "StockLevel": 59,
+        "SafetyStockLevel": 211,
+        "ReplenishmentDate": "2025-06-06 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3044,
+        "StockLevel": 390,
+        "SafetyStockLevel": 195,
+        "ReplenishmentDate": "2025-07-29 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3153,
+        "StockLevel": 29,
+        "SafetyStockLevel": 196,
+        "ReplenishmentDate": "2025-07-25 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3005,
+        "StockLevel": 847,
+        "SafetyStockLevel": 184,
+        "ReplenishmentDate": "2025-06-08 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3179,
+        "StockLevel": 347,
+        "SafetyStockLevel": 210,
+        "ReplenishmentDate": "2025-07-24 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3083,
+        "StockLevel": 876,
+        "SafetyStockLevel": 285,
+        "ReplenishmentDate": "2025-06-17 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3088,
+        "StockLevel": 372,
+        "SafetyStockLevel": 232,
+        "ReplenishmentDate": "2025-06-03 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3100,
+        "StockLevel": 71,
+        "SafetyStockLevel": 94,
+        "ReplenishmentDate": "2025-07-15 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3068,
+        "StockLevel": 434,
+        "SafetyStockLevel": 258,
+        "ReplenishmentDate": "2025-06-10 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3144,
+        "StockLevel": 51,
+        "SafetyStockLevel": 154,
+        "ReplenishmentDate": "2025-07-26 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3106,
+        "StockLevel": 166,
+        "SafetyStockLevel": 226,
+        "ReplenishmentDate": "2025-07-08 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3038,
+        "StockLevel": 50,
+        "SafetyStockLevel": 68,
+        "ReplenishmentDate": "2025-06-22 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3019,
+        "StockLevel": 480,
+        "SafetyStockLevel": 106,
+        "ReplenishmentDate": "2025-06-10 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3112,
+        "StockLevel": 976,
+        "SafetyStockLevel": 99,
+        "ReplenishmentDate": "2025-07-05 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3162,
+        "StockLevel": 584,
+        "SafetyStockLevel": 62,
+        "ReplenishmentDate": "2025-06-27 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3012,
+        "StockLevel": 635,
+        "SafetyStockLevel": 126,
+        "ReplenishmentDate": "2025-06-02 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3197,
+        "StockLevel": 83,
+        "SafetyStockLevel": 105,
+        "ReplenishmentDate": "2025-07-20 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3098,
+        "StockLevel": 422,
+        "SafetyStockLevel": 177,
+        "ReplenishmentDate": "2025-06-25 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3068,
+        "StockLevel": 763,
+        "SafetyStockLevel": 149,
+        "ReplenishmentDate": "2025-06-19 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3112,
+        "StockLevel": 750,
+        "SafetyStockLevel": 109,
+        "ReplenishmentDate": "2025-06-21 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3110,
+        "StockLevel": 998,
+        "SafetyStockLevel": 137,
+        "ReplenishmentDate": "2025-07-12 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3133,
+        "StockLevel": 235,
+        "SafetyStockLevel": 217,
+        "ReplenishmentDate": "2025-07-20 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3090,
+        "StockLevel": 419,
+        "SafetyStockLevel": 172,
+        "ReplenishmentDate": "2025-07-30 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3122,
+        "StockLevel": 570,
+        "SafetyStockLevel": 273,
+        "ReplenishmentDate": "2025-06-04 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3177,
+        "StockLevel": 752,
+        "SafetyStockLevel": 241,
+        "ReplenishmentDate": "2025-06-30 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3027,
+        "StockLevel": 389,
+        "SafetyStockLevel": 133,
+        "ReplenishmentDate": "2025-06-08 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3073,
+        "StockLevel": 422,
+        "SafetyStockLevel": 246,
+        "ReplenishmentDate": "2025-07-19 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3151,
+        "StockLevel": 556,
+        "SafetyStockLevel": 208,
+        "ReplenishmentDate": "2025-07-02 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3047,
+        "StockLevel": 582,
+        "SafetyStockLevel": 109,
+        "ReplenishmentDate": "2025-07-08 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3103,
+        "StockLevel": 736,
+        "SafetyStockLevel": 153,
+        "ReplenishmentDate": "2025-06-23 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3179,
+        "StockLevel": 460,
+        "SafetyStockLevel": 175,
+        "ReplenishmentDate": "2025-07-09 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3064,
+        "StockLevel": 712,
+        "SafetyStockLevel": 58,
+        "ReplenishmentDate": "2025-07-27 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3038,
+        "StockLevel": 59,
+        "SafetyStockLevel": 129,
+        "ReplenishmentDate": "2025-06-05 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3050,
+        "StockLevel": 166,
+        "SafetyStockLevel": 256,
+        "ReplenishmentDate": "2025-07-27 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3181,
+        "StockLevel": 801,
+        "SafetyStockLevel": 293,
+        "ReplenishmentDate": "2025-06-26 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3072,
+        "StockLevel": 393,
+        "SafetyStockLevel": 179,
+        "ReplenishmentDate": "2025-06-29 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3028,
+        "StockLevel": 30,
+        "SafetyStockLevel": 235,
+        "ReplenishmentDate": "2025-06-18 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3030,
+        "StockLevel": 159,
+        "SafetyStockLevel": 219,
+        "ReplenishmentDate": "2025-07-17 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 2
+    },
+    {
+        "ProductID": 3052,
+        "StockLevel": 28,
+        "SafetyStockLevel": 263,
+        "ReplenishmentDate": "2025-06-25 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3192,
+        "StockLevel": 317,
+        "SafetyStockLevel": 151,
+        "ReplenishmentDate": "2025-07-17 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 1
+    },
+    {
+        "ProductID": 3151,
+        "StockLevel": 447,
+        "SafetyStockLevel": 154,
+        "ReplenishmentDate": "2025-06-10 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3015,
+        "StockLevel": 482,
+        "SafetyStockLevel": 219,
+        "ReplenishmentDate": "2025-06-24 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    },
+    {
+        "ProductID": 3014,
+        "StockLevel": 541,
+        "SafetyStockLevel": 90,
+        "ReplenishmentDate": "2025-07-26 00:00:00",
+        "LastUpdated": "2025-03-13",
+        "WarehouseID": 3
+    }
+]

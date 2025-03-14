@@ -1,0 +1,14 @@
+[
+    {
+        "WarehouseID": 1,
+        "WarehouseName": "North Warehouse"
+    },
+    {
+        "WarehouseID": 2,
+        "WarehouseName": "East Warehouse"
+    },
+    {
+        "WarehouseID": 3,
+        "WarehouseName": "South Warehouse"
+    }
+]

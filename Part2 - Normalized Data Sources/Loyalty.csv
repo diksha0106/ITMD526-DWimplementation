@@ -1,0 +1,5 @@
+LoyaltyID,LoyaltyTier,DiscountRate,PointsRequired
+1,Bronze,0.05,1000
+2,Silver,0.1,2500
+3,Gold,0.15,5000
+4,Platinum,0.2,10000
