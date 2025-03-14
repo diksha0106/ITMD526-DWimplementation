@@ -101,7 +101,7 @@
 
   The current data soruce files are not in the 3NF form. To convert the files into 3NF, we will separate some attributes into a separate table: 
   1. Customers.csv - Location, BusinessType and Loyalty has repetitive data (transitive dependency) so separate tables were created for each.
-      - The normalized data files are: Customers.csv, BusinessType.csv, Location.csv and Loyalty.csv.
+      - The normalized data files are: Customers.csv, BusinessType.csv, Locations.csv and Loyalty.csv.
         
   2. Orders.csv - Status, PaymentMethod, ShippingMethod has repetitive data (transitive dependency) so separate tables were created for each.
       - The normalized data files are: Orders.csv, OrderStatus.csv, PaymentMethod.csv, ShippingMethod.csv.
@@ -115,6 +115,33 @@
   5. Inventory.json - Warehouse has repetitive data (transitive dependency) so separate table is created to store warehouse information.
       - The normalized data files are: Inventory.json and Warehouse.json
     
-   All the normalized files are stored in the Part2- Normalized Data Sources folder. 
+  All the normalized files are stored in the Part2- Normalized Data Sources folder. 
 
+  We will use Snowflake to create the database schema. 
+  Created a new data warehouse, database and a schema. All the DDL logic to create database schemas for normalized tables are stored in "DDL Script to create database schema" file
+  ![image](https://github.com/user-attachments/assets/de4fc6b7-2415-404f-9c32-26bd74452a30)
+
+  Normalized database schema is created. 
+  ![image](https://github.com/user-attachments/assets/6153f7e5-462d-4837-b335-15b07056a882)
+  Link to the database schema creation script: https://app.snowflake.com/eleevfr/dq33127/wRyqmIzoA0l/query
+  
+  To load the data into the tables, we will use the load data option in snowflake, then select the appropriate file from the local machine, then click on Next, Click on Load
+  ![image](https://github.com/user-attachments/assets/e8607b5a-0952-402e-8979-b474ed20275d)
+  ![image](https://github.com/user-attachments/assets/b1c9f1d2-87d2-4402-b534-39a783570827)
+  ![image](https://github.com/user-attachments/assets/3039a172-3cee-481e-8464-4af59e518602)
+  ![image](https://github.com/user-attachments/assets/c97e56de-7708-48f8-a94b-0fef532c8c6a)
+  ![image](https://github.com/user-attachments/assets/64ee37e0-60ce-4e4f-8833-bdb5f76382c0)
+
+To see the results, we run the select command on the Business Types. 
+![image](https://github.com/user-attachments/assets/8967c911-13d6-4599-8bc0-17a246ee309e)
+
+We will follow this steps to load all the datasets. 
+
+
+
+
+
+
+  
    
+
