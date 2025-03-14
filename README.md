@@ -198,18 +198,18 @@ DDL Scripts for Dimensional Model: https://app.snowflake.com/eleevfr/dq33127/w5T
  - Explanation: This enables shipping performance analysis, helping businesses evaluate carrier efficiency, cost optimization, and delivery times.
       
 6. FactSales:
-    - Purpose: This fact table captures all sales transactions and links them to customer, product, date, currency, and shipping dimensions for analytics.
-    - Primary Key: SalesKey (Surrogate Key)
-    - Foreign Key References: Customer Key comes from DimCustomer, ProductKey comes DimProduct, DateKey comes from DimDate, CurrencyKey comes from DimCurrency and ShippingMethodKey comes from DimShippingMethod.
-    - Additonal Attributes: OrderStatus, PaymentMethod, Quantity, TotalPrice.
-    - Source File: Orders.csv, OrderStatus.csv, PaymentMethod.csv, ShippingMethod.csv
+ - Purpose: This fact table captures all sales transactions and links them to customer, product, date, currency, and shipping dimensions for analytics.
+ - Primary Key: SalesKey (Surrogate Key)
+ - Foreign Key References: Customer Key comes from DimCustomer, ProductKey comes DimProduct, DateKey comes from DimDate, CurrencyKey comes from DimCurrency and ShippingMethodKey comes from DimShippingMethod.
+ - Additonal Attributes: OrderStatus, PaymentMethod, Quantity, TotalPrice.
+ - Source File: Orders.csv, OrderStatus.csv, PaymentMethod.csv, ShippingMethod.csv
       
 7. FactInvetory:
-     - Purpose: his fact table tracks inventory transactions over time, monitoring stock levels and warehouse performance.
-     - Primary Key: InventoryKey (Surrogate Key) 
-     - Foreign Key References: ProductKey comes from DimProduct, WarehouseKey comes from DimWarehouse and DateKey comes from DimDate.
-     - Additional Attributes: StockLevel, SafetyStockLevel, LastUpdated.
-     - Source File: Inventory.json, Warehouse.json
+ - Purpose: his fact table tracks inventory transactions over time, monitoring stock levels and warehouse performance.
+ - Primary Key: InventoryKey (Surrogate Key) 
+ - Foreign Key References: ProductKey comes from DimProduct, WarehouseKey comes from DimWarehouse and DateKey comes from DimDate.
+ - Additional Attributes: StockLevel, SafetyStockLevel, LastUpdated.
+ - Source File: Inventory.json, Warehouse.json
 
 
 
